@@ -1,7 +1,7 @@
 const BASE_URL = 'https://pixabay.com/api';
 
 let numberOfpage, prevQuery;
-const KEY = '19207978-b8cc5d5178f1c84e5ac39b1c7';
+const KEY = '19233295-27cce40f388ac30d61b3ab95a';
 const perPage = 12;
 
 function page() {
